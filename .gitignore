@@ -6,8 +6,11 @@ yarn-debug.log*
 yarn-error.log*
 config.json
 config.js
+config.js.example
 data/
 test.js
+output.json
+plans.txt
 
 # Runtime data
 pids
